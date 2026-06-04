@@ -74,6 +74,7 @@
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, narrative rotation, and on-chain risk.
 - **[Pharos](https://pharos.watch/)** - Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[DEGEN.TERMINAL](https://degenterminal.live/)** - Free real-time crypto market dashboard with live liquidations, market pulse, open interest & funding, whale positioning, a breaking-news wire and daily/weekly recaps, plus ambient music and voiced market events — no sign-up, runs in any browser.
 
 ## Crypto Development
 
