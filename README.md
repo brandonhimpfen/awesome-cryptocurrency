@@ -74,6 +74,7 @@
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, narrative rotation, and on-chain risk.
 - **[Pharos](https://pharos.watch/)** - Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[Athenum](https://athenum.xyz)** - A crypto and derivatives analytics terminal aggregating order flow, open interest, and liquidity across 14 exchanges, with whale-wall market depth, GPU-native market-structure indicators, and a macro layer (FRED, FOMC, ETF flows, SEC filings).
 
 ## Crypto Development
 
