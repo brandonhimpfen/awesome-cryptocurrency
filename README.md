@@ -90,6 +90,7 @@
 - **[Elliptic](https://www.elliptic.co/)** - Offers crypto compliance and risk management solutions.
 - **[Wasabi Wallet](https://wasabiwallet.io/)** - A privacy-focused Bitcoin wallet with built-in coin mixing.
 - **[CoinJoin](https://en.bitcoin.it/wiki/CoinJoin)** - A method for increasing privacy in Bitcoin transactions.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - On-chain trust scoring for AI agent wallets on Solana. Verify agent wallet reputation and retrieve signed trust receipts before authorizing autonomous payment flows.
 
 ## Educational Resources
 
