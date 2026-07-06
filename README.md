@@ -33,6 +33,7 @@
 - **[Messari](https://messari.io/)** - A research and data platform for crypto assets, offering insights into projects and market trends.
 - **[Investopedia Cryptocurrency Guide](https://www.investopedia.com/terms/c/cryptocurrency.asp)** - An in-depth guide covering the basics of cryptocurrency.
 - **[DeFi Pulse](https://defipulse.com/)** - A dashboard tracking DeFi (Decentralized Finance) projects and tokens.
+- **[NomadCard](https://nomadcrypto.cards)** - Independent comparison of 20+ crypto debit and credit cards by real all-in fees, KYC level and cashback, in 10 languages. Free, no signup.
 
 ## Guides and Getting Started
 
