@@ -72,6 +72,7 @@
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
 - **[IntoTheBlock](https://app.intotheblock.com/)** - An analytics platform offering insights into crypto markets and trends.
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
+- **[Cryptool](https://cryptool.io/)** - Non-custodial multi-chain portfolio tracker with built-in fundraising, OTC, and fund management.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, narrative rotation, and on-chain risk.
 - **[Pharos](https://pharos.watch/)** - Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
 
