@@ -42,6 +42,7 @@
 - **[Crypto Taxes Guide](https://www.coindesk.com/learn/cryptocurrency-tax-guide)** - A comprehensive guide to cryptocurrency taxes.
 
 ## Crypto Wallets
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
 - **[Ledger Nano](https://www.ledger.com/)** - A popular hardware wallet for securely storing various cryptocurrencies.
 - **[Trezor](https://trezor.io/)** - Another trusted hardware wallet for secure crypto storage.
