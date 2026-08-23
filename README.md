@@ -67,6 +67,7 @@
 
 ## Market Data and Analytics
 
+- **[CoinVerum](https://coinverum.com/)** - Open-source Ethereum mainnet DEX analytics for on-chain prices, TVL, volume, trades, pools, and active addresses.
 - **[TradingView](https://www.tradingview.com/)** - A platform for advanced charting and market analysis.
 - **[CryptoCompare](https://www.cryptocompare.com/)** - A platform for comparing cryptocurrency prices, market data, and analytics.
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
