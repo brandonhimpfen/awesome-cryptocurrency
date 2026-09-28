@@ -65,6 +65,7 @@
 - **[CGMiner](https://github.com/ckolivas/cgminer)** - An open-source mining software supporting multiple cryptocurrencies.
 - **[Kryptex](https://www.kryptex.org/)** - A tool for mining cryptocurrency on your computer and getting paid in Bitcoin.
 - **[WhatToMine](https://whattomine.com/)** - A popular tool for calculating the profitability of mining various cryptocurrencies.
+- **[Zecnero](https://zecnero.org/mine)** - A CPU-mineable Zcash fork using RandomX, with a one-command miner setup for Linux and Windows.
 
 ## Market Data and Analytics
 
