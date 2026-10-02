@@ -75,6 +75,7 @@
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, narrative rotation, and on-chain risk.
 - **[Pharos](https://pharos.watch/)** - Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[coinsentry](https://coinsentry.app/)** - Price, new-listing and delisting alerts on Binance, Coinbase, OKX, Upbit and other major exchanges, each alert tied to that exchange's own price feed, plus Bitcoin cycle indicator alerts. Delivered to Telegram, Discord, Slack, email or webhooks.
 
 ## Crypto Development
 
