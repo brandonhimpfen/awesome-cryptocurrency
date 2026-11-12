@@ -75,6 +75,7 @@
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, narrative rotation, and on-chain risk.
 - **[Pharos](https://pharos.watch/)** - Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[DoneRoad](https://doneroad.com/)** - Free no-code price alerts for crypto, stocks, forex, gold, silver and oil, with AND/OR conditions on a single asset delivered to Telegram, Discord, browser push or email.
 
 ## Crypto Development
 
